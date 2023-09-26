@@ -80,7 +80,7 @@ gmpy2==2.0.8
 google-compute-engine==2.8.13
 graphviz==0.9
 greenlet==0.4.13
-grpcio==1.15.0
+grpcio==1.53.0
 gunicorn==19.9.0
 h5py==2.9.0
 heapdict==1.0.0
